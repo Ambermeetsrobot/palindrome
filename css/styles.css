@@ -1,3 +1,7 @@
 #Output {
   display: none;
 }
+
+.btn-primary {
+  background-color: #FF0099;
+}
